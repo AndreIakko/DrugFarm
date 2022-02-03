@@ -10,4 +10,4 @@ discord "https://discord.gg/tqk3kAEr4f"
 
 this_is_a_map 'yes'
 
---cord: -786.5088, -1349.0610, 10.8560
+--cord: -34.5375, 2879.5640, 62.09241
